@@ -1,0 +1,3 @@
+timestamp,po_number,batch_number,vendor,purity_extracted,moisture_extracted,decision,sap_simulated_action,discrepancies
+2026-09-22 16:19:00,PO-4500129841,BAT-2026-X903,Global Pharma Intermediates Ltd.,99.4,0.21,APPROVED,MIGO_101: Auto Goods Receipt Cleared,None
+2026-09-22 16:19:04,PO-4500129841,BAT-2026-X904,Global Pharma Intermediates Ltd.,96.8,0.65,QUARANTINE,QM_01: Material Movement 322 (Quarantine Hold & Deviation Logged),Purity 96.8% < Spec 98.0%; Moisture 0.65% > Spec 0.5%; pH 7.2 outside range [4.5-6.5]
